@@ -36,13 +36,12 @@ Repositório de Trabalho Colaborativo
     |__ 
 ```
 
-# Projeto `Analisando parâmetros multidimensionais: como direcionar o foco na vacinação prioritária de populações-chave?`
+# Projeto ` Analisando a Evasão Escolar com Learning Analytics `
 
-# Project `Analyzing multidimensional parameters: how to direct the focus on priority vaccination of key populations?`
 
 # Apresentação
 
-O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [Ciência e Visualização de Dados em Saúde](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp.
+
 
 | Nome  | Especialização |
 | :---: | :-----------: |
@@ -51,6 +50,6 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 | Camila   | Biblioteconomia |
 | Mariana | Biblioteconomia |
 
-**Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. Para o texto completo do relatório produzido por esse trabalho, acesse [aqui](./assets/relatorio_final.pdf).**
+**Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. Para o texto completo do relatório produzido por esse trabalho, acesse [aqui]().**
 
 # Descrição Resumida do Projeto
