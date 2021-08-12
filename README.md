@@ -48,7 +48,7 @@ Repositório de Trabalho Colaborativo
 | Fernanda Monteiro| Ciência da Informação |
 | Leonardo Marçal  | Biblioteconomia e Des. Sistemas |
 | Camila   | Biblioteconomia |
-| Mariana | Biblioteconomia |
+| Isabela | Biblioteconomia |
 
 **Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. Para o texto completo do relatório produzido por esse trabalho, acesse [aqui]().**
 
