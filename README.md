@@ -52,13 +52,13 @@ Oficina de análise de dados educacionais com abordagem de fundamentos de Data A
 *Data Analytics, Learning Analytics, evasão no ensino superior, educação* 
 
  
-#Objetivos Gerais 
+# Objetivos Gerais 
 
 Realizar análise de dados educacionais com abordagem de fundamentos de Data Analytics e Learning Analytics, com uso de ferramentas apropriadas. 
 
  
 
-#Resultados Esperados 
+# Resultados Esperados 
 
 Definir estratégias para lidar com a evasão, com base na análise de dados. 
 
@@ -100,10 +100,10 @@ Portifólio
 
 # Problemática e questionamentos a serem respondidos:
 
-*Análise da evasão no ensino superior para identificar motivações e propor ações para sua redução 
+* Análise da evasão no ensino superior para identificar motivações e propor ações para sua redução 
 
-*Quais dados podem ser relacionados a evasão no ensino superior? 
+* Quais dados podem ser relacionados a evasão no ensino superior? 
 
-*Quais principais motivações para evasão no ensino superior? 
+* Quais principais motivações para evasão no ensino superior? 
 
-*Quais ações podem ser propostas para reduzir a evasão no ensino superior? 
+* Quais ações podem ser propostas para reduzir a evasão no ensino superior? 
