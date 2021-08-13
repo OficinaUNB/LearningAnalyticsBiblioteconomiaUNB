@@ -66,35 +66,35 @@ Definir estratégias para lidar com a evasão, com base na análise de dados.
 
 # Estrutura dos Conteúdos
 
-Fundamentos de Data Analytics e Learning Analytics 
+1. Fundamentos de Data Analytics e Learning Analytics 
 
-Conceito de dados e fontes de dados 
+2. Conceito de dados e fontes de dados 
 
-Dados abertos 
+3. Dados abertos 
 
-Gestão de dados 
+4. Gestão de dados 
 
-Ferramentas de análise de dados 
+5. Ferramentas de análise de dados 
 
-Excel para o pré-processamento 
+   5.1 Excel para o pré-processamento 
 
-Power BI para visualização de dados 
+   5.2 Power BI para visualização de dados 
 
-GitHub para criação de portifólio 
+   5.3 GitHub para criação de portifólio 
 
-Experimento prático 
+6. Projeto prático 
 
-Coleta 
+   6.1 Coleta de Dados
 
-Armazenamento 
+   6.2 Armazenamento 
 
-Pré-processamento 
+   6.3 Pré-processamento 
 
-Processamento 
+   6.4 Processamento 
 
-Visualização 
+   6.5 Visualização 
 
-Portifólio 
+7. Portifólio 
 
  
 
