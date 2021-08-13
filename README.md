@@ -37,9 +37,9 @@ Repositório de Trabalho Colaborativo
 | Nome  | Especialização | IES |
 | :---: | :-----------: | :---: |
 | Fernanda Monteiro| Ciência da Informação | UNB |
-| Leonardo Marçal  | Biblioteconomia e Des. Sistemas | UNB |
+| Leonardo Marçal  | Biblioteconomia e Des. Sistemas | UFPE |
 | Camila Duarte  | Biblioteconomia | UNB |
-| Isabela  | Biblioteconomia | UFPE |
+| Isabela  | Biblioteconomia | UNB |
 
 **Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. Para o texto completo do relatório produzido por esse trabalho, acesse [aqui]().**
 
