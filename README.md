@@ -1,4 +1,4 @@
-# learningAnalyticsUnB
+# learningAnalytics/Bibliotecnomia/UNB
 Repositório de Trabalho Colaborativo
 
 # Estrutura de Arquivos e Pastas
