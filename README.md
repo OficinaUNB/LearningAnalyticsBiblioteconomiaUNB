@@ -41,7 +41,7 @@ Repositório de Trabalho Colaborativo
 | Camila Duarte  | Biblioteconomia | UNB |
 | Isabela  | Biblioteconomia | UNB |
 
-**Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. Para o texto completo do relatório produzido por esse trabalho, acesse [aqui]().**
+**Neste arquivo apresentamos de forma muito resumida o projeto e seus resultados. 
 
 # Descrição Resumida do Projeto 
 
